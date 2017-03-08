@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D254AD1F-DFC6-4C4F-91C5-07FE19AAC61F}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zulily/Tests.cs">
+    <Files>
+      <File FileName="Zulily/AppInitializer.cs" Line="34" Column="23" />
+      <File FileName="Zulily/Tests.cs" Line="92" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Zulily" expanded="True">
+            <Node name="Zulily" expanded="True">
+              <Node name="Zulily" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Zulily PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
