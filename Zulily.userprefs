@@ -7,16 +7,8 @@
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Zulily" expanded="True">
-            <Node name="Zulily" expanded="True">
-              <Node name="Zulily" expanded="True">
-                <Node name="Tests" expanded="True">
-                  <Node name="Tests(Android)" expanded="True">
-                    <Node name="FirstTest" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
+          <Node name="Zulily" expanded="True" selected="True">
+            <Node name="Zulily" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,4 +20,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Zulily PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
